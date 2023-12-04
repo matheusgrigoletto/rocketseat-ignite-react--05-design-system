@@ -1,4 +1,8 @@
-# Components
+# Design System
+
+Projeto parte do curso de ReactJS, da Rocketseat.
+
+## Componentes
 
 - [ ] Text
 - [ ] Heading
