@@ -13,6 +13,9 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "@matheusgrigoletto-ignite-ui/tokens": "*",
     "@matheusgrigoletto-ignite-ui/ts-config": "*",

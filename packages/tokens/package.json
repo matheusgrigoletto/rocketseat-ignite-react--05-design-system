@@ -12,6 +12,9 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "@matheusgrigoletto-ignite-ui/ts-config": "*",
     "tsup": "^8.0.1",
