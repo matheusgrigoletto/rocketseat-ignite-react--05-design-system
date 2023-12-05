@@ -1,5 +1,11 @@
 # @matheusgrigoletto-ignite-ui/tokens
 
+## 0.1.3
+
+### Patch Changes
+
+- e266a50: ci: fix some settings
+
 ## 0.1.2
 
 ### Patch Changes
