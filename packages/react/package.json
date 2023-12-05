@@ -17,6 +17,7 @@
     "access": "public"
   },
   "devDependencies": {
+    "@matheusgrigoletto-ignite-ui/eslint-config": "*",
     "@matheusgrigoletto-ignite-ui/tokens": "*",
     "@matheusgrigoletto-ignite-ui/ts-config": "*",
     "@types/react": "^18.2.39",
