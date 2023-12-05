@@ -1,6 +1,5 @@
 {
-  "name": "@ignite-ui/ts-config",
-  "version": "1.0.0",
-  "license": "MIT",
-  "private": true
+  "name": "@matheusgrigoletto-ignite-ui/ts-config",
+  "version": "0.1.0",
+  "license": "MIT"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "@ignite-ui/react",
-  "version": "1.0.0",
+  "name": "@matheusgrigoletto-ignite-ui/react",
+  "version": "0.1.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@matheusgrigoletto-ignite-ui/tokens": "*",
+    "@matheusgrigoletto-ignite-ui/ts-config": "*",
     "@types/react": "^18.2.39",
     "@types/react-dom": "^18.2.17",
     "react": "^18.2.0",

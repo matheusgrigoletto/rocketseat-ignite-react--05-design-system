@@ -1,7 +1,7 @@
 import { ComponentPropsWithRef, ElementType } from "react";
 
 import { styled } from "@/styles";
-import { fontSizes } from "@ignite-ui/tokens";
+import { fontSizes } from "@matheusgrigoletto-ignite-ui/tokens";
 
 const sizeVariants = Object.keys(fontSizes).reduce<
   Record<string, { fontSize: string }>

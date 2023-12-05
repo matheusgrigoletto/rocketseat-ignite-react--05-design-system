@@ -21,14 +21,13 @@ const config: StorybookConfig = {
     getAbsolutePath("@storybook/addon-interactions"),
     getAbsolutePath("@storybook/addon-a11y"),
     getAbsolutePath("@storybook/addon-mdx-gfm"),
-    getAbsolutePath("@storybook/addon-mdx-gfm"),
   ],
   framework: {
     name: getAbsolutePath("@storybook/react-vite"),
     options: {},
   },
   docs: {
-    autodocs: true,
+    autodocs: "tag",
   },
   viteFinal: (config, { configType }) => {
     if (configType === "PRODUCTION") {

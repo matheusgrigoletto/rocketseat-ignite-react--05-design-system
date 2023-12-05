@@ -1,7 +1,7 @@
 {
-  "name": "@ignite-ui/eslint-config",
+  "name": "@matheusgrigoletto-ignite-ui/eslint-config",
+  "version": "0.1.0",
   "license": "MIT",
-  "private": true,
   "main": "index.js",
   "devDependencies": {
     "eslint": "^8.24.0"
