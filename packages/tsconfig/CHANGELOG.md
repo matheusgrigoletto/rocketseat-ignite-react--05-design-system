@@ -1,5 +1,11 @@
 # @matheusgrigoletto-ignite-ui/ts-config
 
+## 0.1.2
+
+### Patch Changes
+
+- 5707a9c: fix: remove duplicate entry
+
 ## 0.1.1
 
 ### Patch Changes
